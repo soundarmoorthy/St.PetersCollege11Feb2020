@@ -13,4 +13,4 @@ https://blogs.nvidia.com/blog/2019/04/17/unitedhealth-deep-learning-healthcare-s
 
 https://www.businessinsider.com/how-unitedhealth-groups-optum-is-applying-artificial-intelligence-to-its-data-2018-8
 
-https://www.slideteam.net/powerpoint/Ai-And-Healthcare (AI in Healthcare)
+https://healthcare.ai/broadcast/ml-28-introducing-healthcareai-v2/ 
